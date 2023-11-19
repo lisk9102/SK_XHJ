@@ -1,3 +1,10 @@
+#常用
+DOMAIN,socialchain.app
+DOMAIN-SUFFIX,minepi.com
+DOMAIN-SUFFIX,githubusercontent.com
+;DOMAIN,www.bing.com
+;DOMAIN,gateway.bingviz.microsoftapp.net
+
 # NAME: Telegram
 # TOTAL: 35
 DOMAIN-SUFFIX,comments.app
