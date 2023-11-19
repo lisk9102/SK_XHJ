@@ -1,1 +1,45 @@
-
+#apple禁止更新
+DOMAIN,p14-buy.itunes.apple.com
+DOMAIN,mesu.apple.com
+DOMAIN,gdmf.apple.com
+DOMAIN,updates-http.cdn-apple.com
+DOMAIN-SUFFIX,pornhub.com
+# 绕过企业证书过期
+HOST,ocsp.apple.com
+#
+#常用广告过滤
+DOMAIN,adimg.uve.weibo.com
+DOMAIN,u1.img.mobile.sina.cn
+;DOMAIN-SUFFIX,emdcadvertise-global.eastmoney.com
+;DOMAIN-SUFFIX,emdcadvertise.eastmoney.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleadsserving.cn
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,www.qchannel01.cn
+DOMAIN-SUFFIX,page.amap.com
+HOST-SUFFIX,www.qchannel01.cn
+DOMAIN,optimus-ads.amap.com
+DOMAIN,optimus-ads.amap.com.w.alikunlun.com
+DOMAIN-SUFFIX,e.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,l.qq.com
+DOMAIN,adsmind.apdcdn.tc.qq.com
+DOMAIN,adsmind.gdtimg.com
+DOMAIN,adsmind.tc.qq.com
+DOMAIN,pgdt.gtimg.cn
+DOMAIN,pgdt.gtimg.com
+DOMAIN,pgdt.ugdtimg.com
+DOMAIN,splashqqlive.gtimg.com
+DOMAIN,wa.gtimg.com
+DOMAIN,wxsnsdy.wxs.qq.com
+DOMAIN,wxsnsdythumb.wxs.qq.com
+#喜马拉雅
+# DOMAIN,ad.ximalaya.com
+# DOMAIN,adbs.ximalaya.com
+# DOMAIN,adse.ximalaya.com
+# DOMAIN,adse.wsa.ximalaya.com
+# DOMAIN,adbehavior.wsa.ximalaya.com
+# DOMAIN,adbehavior.ximalaya.com
+# DOMAIN,adsebs.ximalaya.com
