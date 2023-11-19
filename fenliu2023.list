@@ -2,7 +2,7 @@
 #PI
 DOMAIN,socialchain.app
 DOMAIN-SUFFIX,minepi.com
-DOMAIN-SUFFIX,githubusercontent.com
+#DOMAIN-SUFFIX,githubusercontent.com
 
 # NAME: Telegram
 # TOTAL: 35
