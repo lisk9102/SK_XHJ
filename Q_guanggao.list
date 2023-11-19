@@ -6,9 +6,14 @@ DOMAIN,updates-http.cdn-apple.com
 DOMAIN-SUFFIX,pornhub.com
 # 绕过企业证书过期
 HOST,ocsp.apple.com
+
+# > 贴吧屏蔽域名dns查询
+ip-cidr, 180.76.76.200/32
 #
 #常用广告过滤
+DOMAIN, sdkapp.uve.weibo.com
 DOMAIN,adimg.uve.weibo.com
+DOMAIN-suffix, u3.ucweb.com
 DOMAIN,u1.img.mobile.sina.cn
 ;DOMAIN-SUFFIX,emdcadvertise-global.eastmoney.com
 ;DOMAIN-SUFFIX,emdcadvertise.eastmoney.com
@@ -17,6 +22,7 @@ DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleadsserving.cn
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagservices.com
+DOMAIN, amdc.m.taobao.com
 DOMAIN-SUFFIX,www.qchannel01.cn
 DOMAIN-SUFFIX,page.amap.com
 HOST-SUFFIX,www.qchannel01.cn
